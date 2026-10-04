@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Love Lab</title>
+    <link>https://pearlouisebot.github.io/love-lab-podcast/</link>
+    <language>en-us</language>
+    <description>A private feed for Amanda Bradford.</description>
+    <itunes:author>Amanda Bradford / APB</itunes:author>
+    <itunes:summary>A private feed for Amanda Bradford.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>What We Actually Know About Who Lasts</title>
+      <description>Full two-voice NPR-style episode drawn from the Love Lab evidence map.</description>
+      <enclosure url="https://pearlouisebot.github.io/love-lab-podcast/love-lab-full.mp3" length="43582624" type="audio/mpeg" />
+      <guid>love-lab-full-001</guid>
+      <pubDate>Sun, 04 Oct 2026 15:44:00 GMT</pubDate>
+      <itunes:duration>00:45:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
